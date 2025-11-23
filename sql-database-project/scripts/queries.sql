@@ -1,1 +1,0 @@
--- This file contains various SQL queries that can be executed against the database to retrieve or manipulate data.
