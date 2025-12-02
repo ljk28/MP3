@@ -14,12 +14,33 @@ The favicon had to be simple and easy as it will be small anyway to the user. So
 the final  favicon design...
 <img src="assets/images/faviconfinal.png">
 
+
+# Wireframes and mockups
+The wireframes ar very basic and inclide an image and text box which is scrollable ans a main page homepage window.
+
 ## Tools used
 <ul>
 <li>Canva</li>
+<li>Figma</li>
+
 </ul>
 
 ## References/Citations
 https://code.visualstudio.com/docs/python/environments
 https://code.visualstudio.com/docs/sourcecontrol/overview
+
+https://syncromsp.com/blog/how-to-check-python-version/
+
+
+### Virtual Environments..
+https://realpython.com/python-virtual-environments-a-primer/#:~:text=You%20activate%20a%20venv%20on,and%20choosing%20Python%3A%20Select%20Interpreter.
+
+https://www.w3schools.com/python/python_virtualenv.asp
+
+https://realpython.com/build-a-blog-from-scratch-django/
+
+http://localhost:8000/
+
+### Migrations
+https://docs.djangoproject.com/en/5.2/topics/migrations/
 
