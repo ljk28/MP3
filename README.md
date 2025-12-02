@@ -16,7 +16,19 @@ the final  favicon design...
 
 
 # Wireframes and mockups
-The wireframes ar very basic and inclide an image and text box which is scrollable ans a main page homepage window.
+The wireframes are very basic and include an image and text box which is scrollable and a main page homepage window.
+
+For Mobile...
+<img src="assets/images/images/mob-1.jpeg">
+<img src="assets/images/images/mob-2.jpeg">
+<br>
+For Tablets...
+<img src="assets/images/images/tab1.jpeg">
+<img src="assets/images/images/tab2.jpeg">
+For Desktop...
+<img src="assets/images/images/desktop-1.jpeg">
+<img src="assets/images/images/desktop-2.jpeg">
+
 
 ## Tools used
 <ul>
