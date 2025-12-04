@@ -1,7 +1,8 @@
 # MP3
 ## Blog 
 <img src="assets/images/blogfinal.png">
-Python Project
+
+# Python Project
 
 ## Design of Logo and Favicon
 The design and logo are reflective of a handwritten letter but with a modern twist of it being a blog post. 
@@ -9,9 +10,11 @@ The seal on the letter is red and for the final design it was decided that red w
 <img src="assets/images/1.png">
 <img src="assets/images/2.png">
 <img src="assets/images/3.png">
-The favicon had to be simple and easy as it will be small anyway to the user. So a simple shape of the envelope in a red background was enough.
+<p>
+The favicon had to be simple and easy as it will be small anyway to the user. So a simple shape of the envelope in a red background was enough.</p>
 <img src="assets/images/favicon1.png">
-the final  favicon design...
+<p>
+the final  favicon design...</p>
 <img src="assets/images/faviconfinal.png">
 
 
@@ -48,6 +51,9 @@ https://syncromsp.com/blog/how-to-check-python-version/
 https://www.markdownguide.org/
 
 https://www.markdownguide.org/hacks/#overview
+
+### Python code
+https://docs.python.org/3/
 
 ### Virtual Environments..
 https://realpython.com/python-virtual-environments-a-primer/#:~:text=You%20activate%20a%20venv%20on,and%20choosing%20Python%3A%20Select%20Interpreter.
