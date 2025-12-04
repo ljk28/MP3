@@ -35,15 +35,19 @@ For Desktop...
 <li>VS Code</li>
 <li>Canva</li>
 <li>Figma</li>
-
+<li>Django</li>
+<li>Reddit</li>
 </ul>
 
-## References/Citations
+# References/Citations
 https://code.visualstudio.com/docs/python/environments
 https://code.visualstudio.com/docs/sourcecontrol/overview
 
 https://syncromsp.com/blog/how-to-check-python-version/
 
+https://www.markdownguide.org/
+
+https://www.markdownguide.org/hacks/#overview
 
 ### Virtual Environments..
 https://realpython.com/python-virtual-environments-a-primer/#:~:text=You%20activate%20a%20venv%20on,and%20choosing%20Python%3A%20Select%20Interpreter.
@@ -56,6 +60,9 @@ http://localhost:8000/
 
 https://www.geeksforgeeks.org/python/djnago-installation-and-setup/
 
+
+https://www.reddit.com/r/learnpython/comments/18lfequ/not_sure_why_i_keep_getting_this_error_zsh/
+
 ### Migrations
 https://docs.djangoproject.com/en/5.2/topics/migrations/
 
@@ -63,4 +70,14 @@ https://docs.djangoproject.com/en/5.2/topics/migrations/
 
 https://docs.python.org/3/search.html?q=no+such+file+or+directory
 
+
+## Bugs and Issues
+Trying to activate a virtual environent (VE) seemed problematic and caused issues of <em>"parse error" </em> along with <em>"zsh command not found"</em> and <em>"no such file or directory exists."</em>
+
+With the revelation that Mac users (myself being one of them) have to add a "3" in front of python when activating the VE. This helped to install pip and Django.
+<p style="text-align:center">
+<em>
+"python3 activate...."</em>
+</p>
+However, the <em>"command not found"</em> and <em>"no such directory exists" </em>issues persisted. 
 
