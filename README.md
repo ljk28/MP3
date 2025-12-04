@@ -39,7 +39,6 @@ For Desktop...
 <li>Canva</li>
 <li>Figma</li>
 <li>Django</li>
-<li>Reddit</li>
 </ul>
 
 # References/Citations
@@ -66,7 +65,6 @@ http://localhost:8000/
 
 https://www.geeksforgeeks.org/python/djnago-installation-and-setup/
 
-
 https://www.reddit.com/r/learnpython/comments/18lfequ/not_sure_why_i_keep_getting_this_error_zsh/
 
 ### Migrations
@@ -76,6 +74,12 @@ https://docs.djangoproject.com/en/5.2/topics/migrations/
 
 https://docs.python.org/3/search.html?q=no+such+file+or+directory
 
+### Errors
+'Parse error'
+https://proxys.io/en/blog/life-hacking/parse-error-in-python-why-does-this-error-occur-and-how-to-avoid-it#:~:text=A%20parse%20error%20occurs%20when,structure%20will%20cause%20a%20ParseError.
+<br>
+<img src="assets/images/bugs1.jpeg">
+<img src="assets/images/bugs2.jpeg">
 
 ## Bugs and Issues
 Trying to activate a virtual environent (VE) seemed problematic and caused issues of <em>"parse error" </em> along with <em>"zsh command not found"</em> and <em>"no such file or directory exists."</em>
