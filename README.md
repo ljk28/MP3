@@ -32,6 +32,7 @@ For Desktop...
 
 ## Tools used
 <ul>
+<li>VS Code</li>
 <li>Canva</li>
 <li>Figma</li>
 
@@ -53,6 +54,13 @@ https://realpython.com/build-a-blog-from-scratch-django/
 
 http://localhost:8000/
 
+https://www.geeksforgeeks.org/python/djnago-installation-and-setup/
+
 ### Migrations
 https://docs.djangoproject.com/en/5.2/topics/migrations/
+
+### Directory/files
+
+https://docs.python.org/3/search.html?q=no+such+file+or+directory
+
 
